@@ -12,16 +12,18 @@ C:\DEV\java-patterns\src\main\java\patterns\behavioral\visitor\Programmer.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\abstractFactory\Instance.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\nullObject\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\abstractFactory\gcp\GoogleComputeEngineInstance.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder\UserWebDTO.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\strategy\strategy\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\visitor\Manager.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\UserWebDTO.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\bridge\ArrayLinkedList.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\strategy\strategy\SummaryPrinter.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\UserDTO.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\simpleFactory\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\flyweight\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\visitor\AbstractEmployee.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\iterator\ThemeColor.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\state\New.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\Address.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\visitor\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\simpleFactory\BlogPost.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\chainOfResponsibility\Manager.java
@@ -32,6 +34,7 @@ C:\DEV\java-patterns\src\main\java\patterns\behavioral\state\Cancelled.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\observer\PriceObserver.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\facade\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\facade\email\Mailer.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder2\UserDTO.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\proxy\dynamic\ImageFactory.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\proxy\dynamic\ImageInvocationHandler.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\bridge\Client.java
@@ -55,7 +58,6 @@ C:\DEV\java-patterns\src\main\java\patterns\structural\adapter\EmployeeObjectAda
 C:\DEV\java-patterns\src\main\java\patterns\structural\facade\email\TemplateFactory.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\interpreter\NotExpression.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\memento\command\WorkflowCommand.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder\UserWebDTOBuilder.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\factoryMethod\message\JSONMessage.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\state\OrderState.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\factoryMethod\JSONMessageCreator.java
@@ -65,7 +67,6 @@ C:\DEV\java-patterns\src\main\java\patterns\behavioral\memento\command\AddStepCo
 C:\DEV\java-patterns\src\main\java\patterns\structural\flyweight\UserBannedErrorMessage.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\strategy\strategy\Order.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\objectPool\Client.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder\UserDTOBuilder.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\facade\email\Email.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\memento\command\CreateCommand.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\memento\command\RemoveStepCommand.java
@@ -82,7 +83,7 @@ C:\DEV\java-patterns\src\main\java\patterns\structural\adapter\Main.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\strategy\strategy\User.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\chainOfResponsibility\LeaveApplication.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\singleton\RegistryEnum.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder\User.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\User.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\interpreter\PermissionExpression.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\abstractFactory\gcp\GoogleCloudStorage.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\chainOfResponsibility\ProjectLead.java
@@ -93,10 +94,9 @@ C:\DEV\java-patterns\src\main\java\patterns\structural\decorator\HtmlEncodedMess
 C:\DEV\java-patterns\src\main\java\patterns\creational\factoryMethod\message\Message.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\interpreter\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\abstractFactory\ResourceFactory.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder\UserDTO.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\factoryMethod\MessageCreator.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\command\EWSService.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder\Address.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\UserDTOBuilder.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\chainOfResponsibility\LeaveApprover.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\visitor\AppraisalVisitor.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\state\Client.java
@@ -113,6 +113,7 @@ C:\DEV\java-patterns\src\main\java\patterns\creational\abstractFactory\Client.ja
 C:\DEV\java-patterns\src\main\java\patterns\structural\bridge\LinkedList.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\interpreter\User.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\memento\command\AbstractWorkflowCommand.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\singleton\LazyRegistryIODH.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\mediator\UIMediator.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\nullObject\Report.java
@@ -136,6 +137,7 @@ C:\DEV\java-patterns\src\main\java\patterns\creational\factoryMethod\message\Tex
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\interpreter\AndExpression.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\proxy\BitmapImage.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\strategy\strategy\OrderPrinter.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder2\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\template\OrderPrinter.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\abstractFactory\aws\S3Storage.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\composition\Client.java
@@ -153,8 +155,8 @@ C:\DEV\java-patterns\src\main\java\patterns\behavioral\mediator\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\factoryMethod\TextMessageCreator.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\simpleFactory\ProductPost.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\observer\OrderObserver.java
+C:\DEV\java-patterns\src\main\java\patterns\creational\builder\UserWebDTOBuilder.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\nullObject\ComplexService.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder\Client.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\simpleFactory\NewsPost.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\chainOfResponsibility\Employee.java
 C:\DEV\java-patterns\src\main\java\patterns\creational\objectPool\Image.java
@@ -167,4 +169,3 @@ C:\DEV\java-patterns\src\main\java\patterns\behavioral\interpreter\ExpressionBui
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\state\Paid.java
 C:\DEV\java-patterns\src\main\java\patterns\structural\adapter\Employee.java
 C:\DEV\java-patterns\src\main\java\patterns\behavioral\observer\QuantityObserver.java
-C:\DEV\java-patterns\src\main\java\patterns\creational\builder\builder-inner\builder\User.java
